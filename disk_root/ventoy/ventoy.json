@@ -54,6 +54,14 @@
             "class": "ghost"
         },
         {
+            "key": "gparted-",
+            "class": "gparted"
+        },
+        {
+            "key": "kali-linux-",
+            "class": "kali"
+        },
+        {
             "key": "linuxmint-",
             "class": "linuxmint"
         },
@@ -62,12 +70,36 @@
             "class": "macosx"
         },
         {
-            "key": "openSUSU-",
+            "key": "openSUSE-",
             "class": "opensuse"
+        },
+        {
+            "key": "OPNsense-",
+            "class": "opnsense"
+        },
+        {
+            "key": "proxmox-",
+            "class": "proxmox"
+        },
+        {
+            "key": "Qubes-",
+            "class": "qubes"
         },
         {
             "key": "Symantec",
             "class": "symantec"
+        },
+        {
+            "key": "tails-",
+            "class": "tails"
+        },
+        {
+            "key": "VMware-",
+            "class": "vmware"
+        },
+        {
+            "key": "Veeam",
+            "class": "veeam"
         },
         {
             "key": "Win_7",
@@ -132,6 +164,26 @@
         {
             "key": "ventoy-",
             "class": "ventoy"
+        },
+        {
+            "key": "/restore",
+            "class": "veeam"
+        },
+        {
+            "dir": "/unix",
+            "class": "linux"
+        },
+        {
+            "dir": "/util",
+            "class": "utility"
+        },
+        {
+            "dir": "/virtual",
+            "class": "vmware"
+        },
+        {
+            "dir": "/windows",
+            "class": "windows"
         }
     ]
 }
