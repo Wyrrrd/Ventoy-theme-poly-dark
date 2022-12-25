@@ -2,7 +2,6 @@
     "control": [
         { "VTOY_DEFAULT_MENU_MODE": "1" },
         { "VTOY_FILT_DOT_UNDERSCORE_FILE": "1" },
-        { "VTOY_DEFAULT_SEARCH_ROOT": "/_ISO" },
         { "VTOY_WIN11_BYPASS_CHECK": "1" }
     ],
     "theme": {
@@ -133,26 +132,6 @@
         {
             "key": "ventoy-",
             "class": "ventoy"
-        },
-        {
-            "dir": "/_ISO/Linux",
-            "class": "linux"
-        },
-        {
-            "dir": "/_ISO/macOS",
-            "class": "macosx"
-        },
-        {
-            "dir": "/_ISO/Utility",
-            "class": "utility"
-        },
-        {
-            "dir": "/_ISO/Windows",
-            "class": "windows"
-        },
-        {
-            "dir": "/_ISO/WinPE",
-            "class": "win_pe"
         }
     ]
 }
